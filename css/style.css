@@ -23,6 +23,7 @@ body{
  
 .barra_arriba {
     background: var(--color4);
+    color:var(--color1);
     text-align: center;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -31,7 +32,6 @@ body{
     margin-left: 5%;
     margin-right: 5%;
     border: solid 1px var(--color5);
-
 }
 
 #navegador {
